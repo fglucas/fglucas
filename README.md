@@ -3,7 +3,7 @@
 
 
 
-### Ola pessoas! Sejam muito bem vindes ao meu github! 👋
+### Olá pessoas! Sejam muito bem vindes ao meu github! 👋
 
 ![fglucas's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=fglucas&show_icons=true&theme=dark)
 
